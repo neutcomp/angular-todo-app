@@ -9,7 +9,7 @@ To start a local development server, run:
 ```bash
 npm start
 ```
-v   
+
 ## Additional Resources
 
 For more information about the tutorial visit: https://www.udemy.com/course/the-complete-guide-to-angular-2/
